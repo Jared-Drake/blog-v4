@@ -159,8 +159,6 @@ const prev = () => {
         )}
       </div>
 
-        {/* Box 3 */}
-        <div className="box">Box 3 Content</div>
       </div>
     </div>
   );
