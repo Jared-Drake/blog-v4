@@ -11,7 +11,7 @@ export default function Header() {
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/blog">Tech Blog</Link>
-                <Link to="/3dmodels">3D Models</Link>
+                <Link to="/models">3D Models</Link>
             </div>
         </header>
     );
